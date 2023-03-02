@@ -1,0 +1,4 @@
+*.json
+backend_without_token/recipe/src/main/resources/application.yaml
+backend_without_token/recipe/target/classes/application.yaml
+frontend/node_modules

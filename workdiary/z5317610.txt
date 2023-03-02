@@ -1,0 +1,40 @@
+Week 1:
+-Camp up with noval functions with team members
+-Tried to list the basic functions we need to do with
+Week 2:
+- Created user stories with our ideas
+- Splited user stories to 3 parts
+- Collected the knowledge for our project
+Week 3:
+- Check the user stories for first demo
+- Wrote backend architecture figure
+- Created Springboot project with IDEA and added the swagger API function
+Week 4:
+- Built the login and register API
+- Worked on the tables of database
+Week 5:
+- Fixed the login bug, we set username as unique
+- Solved the problem of storage type of data in database
+Week 6:
+- Connected the frontend and backend works
+- Created some get APIs for front end
+- Worked on the like and comment API
+- Worked on the database tables
+Week 7:
+- Added like table in the database
+- Worked on the like API, fixed the bug of it
+- Connected the API with frontend
+Week 8:
+- Worked on the recommend API, tried a lot for metric of similarity between ingredients
+- Fixed some bugs in some update APIs
+- Set the environment in the virtual machine to run our project successfully
+- Fixed the image storage in the database
+Week 9:
+- Added guest API
+- Connected all the backend and frontend work, found some bugs
+- Fixed bugs with publish and edit API
+- Improved the metric of similarity between ingredients
+- Cleaned the database, deleted the wrong data
+- Fixed more bugs
+Week 10:
+- Worked on the virtual machine, ensured our project can run successfully in it.

@@ -1,0 +1,40 @@
+Week 1:
+- Came up with the random recipe novel functionality for our site and explained the way that it would look and function
+- Worked with team to create overall design for website and its functionalities
+Week 2:
+- Wrote numerous user stories for various functionalities
+- Began to write acceptance criteria for user stories
+- Wrote descriptions of various functionalities for design spec
+Week 3:
+- Wrote/rewrote acceptance criteria for every user story
+- Wrote frontend architecture section of design specification
+- Edited grammar for specification and rewrote numerous sections for clarity
+- Created React app and built login page and register page, styled to design specified by prototype
+Week 4:
+- Built Publish page with stub functions to connect to backend
+- Worked on proper git usage (i.e. using .gitignore file)
+Week 5:
+- Fixed API errors on home page
+- Fixed lint errors in frontend
+- Made login/register changes to validate email, ensure passoword is strong, add confirmation
+Week 6:
+- Made detailed recipe page (shown when user clicks a recipe card component)
+- Made "Edit Recipe" page with stub functions to allow user to edit a recipe
+Week 7:
+- Made appropriate error message when user logs in with incorrect details
+- Added like button/counter to recipe detail page, added delete button to edit recipe
+- Made sure edit recipe worked with API
+- Minor UI changes
+- Made profile page work for other profiles on site so user can visit other profiles
+- Added support for posting/retrieving comments
+Week 8:
+- Fixed lint errors
+- Fixed minor UI issues
+Week 9:
+- Made random recipe page
+- Fixed issues with editing recipes
+- Made notebook, debugged until working with API properly
+- Fixed various frontend bugs (guest user not being redirected for some user-only actions)
+- Better error handling for login/register/editProfile pages
+- Tightened up UI (in particular, made ProfileModification page look/function more like register page)
+- Fixed more bugs

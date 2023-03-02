@@ -1,0 +1,29 @@
+Week 1
+Group formed. Together with all group members, we created the Jira & GitHub accounts, wrote the user story at Jira, sorted them by function, and put them in different sprints. We discussed the part of the proposal that everyone was responsible for, and everyone thought of a new feature to discuss over week 2. 
+
+Week 2
+Matthew Harrison and I built prototype and flow diagrams for our project. All of our team members identified the 2 novel features of choice and completed the Functionalities and User stories section of the Project Proposal together. At the same time, we adjusted the order of the user stories and made some changes. In the next week, we will finish writing the proposal and be ready to start working on the project.
+
+Week3
+Our group selected the 2 novel functions, planned the business and data layers and the technologies and languages we needed to use in the project, completed the proposal, and submitted it. I wrote the front-end code for the front page of the project. In the next week, we will finish most of the Demo A in Jira.
+
+Week4
+This week I completed the front-end code of the profile part of the project, including the profile page, profile follower page, and profile modification page. Our group completed almost all the requirements of Damo A. Next week we will finish all of Demo A’s requirements and start Demo B’s part.
+
+Week5
+This week our group completed all parts of DemoA and completed the front-end and back-end interfaces. In the tutorial, we have shown the results of Demo A. We analyzed possible problems in the Demo A stage and started to complete Retrospective A. Next week we'll finish Retrospective A and start the DemoB section.
+
+Week6
+This week our group finished Retrospective A, we analyzed the deficiencies in Demo A and assigned the task of Demo B. I have started coding the search part’s front end this week. Next week we should finish all of Demo B’s code.
+
+Week7
+This week our group is working on demoB. I have finished the search part and pagination part’s code and started trying to connect with the backend’s search API. Next week we will finish all of Demo B’s code.
+ 
+Week8
+This week we have finished all of Demo B’s work and started to work on the final Demo. I have finished the new’s feed, what’s hot, subscribed, and log out parts’ frontend code. Next week I will work on the similar recipe recommended part and our group will finish all final Demo codes.
+
+Week9
+This week I finished the similar recipe recommended part, then we fixed some bugs in our project and make it more useful. Next week we will demonstrate our work and write our project final report.
+
+Week 10
+This week we are preparing our final demonstration and report. We have tested our project work and fixed some bugs. After Tuesday’s demonstration, we are working on the final report. I will write some of the functionalities parts and also the frond-end part of the Third-Party Functionalities part.

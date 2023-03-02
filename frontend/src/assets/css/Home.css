@@ -1,0 +1,29 @@
+body{
+    background-color: #f5f5dc;
+}
+
+.whats-hot-title{
+    margin-left: 10%;
+    margin-bottom: 2%;
+}
+.home-cards{
+    display: flex;
+    margin-top: 40px;
+
+}
+.home-card{
+    display: flex;
+    margin-right:90px;
+
+}
+.more-on-home{
+    margin-left: 85%;
+    padding-top: 5px;
+}
+.news-feed{
+    padding-bottom: 50px;
+}
+.random-btn{
+    margin-top: 3%;
+    margin-left: 80%;
+}

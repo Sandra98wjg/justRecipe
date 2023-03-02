@@ -1,0 +1,67 @@
+.user-information{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 35px auto;
+    /* margin: 30px;
+    margin-left: 40% */
+}
+.name-email{
+    font-size: 20px;
+    margin-left: 20px;
+}
+h1{
+    margin: 0;
+    padding: 0;
+}
+.profile-recipe-word{
+    font-size: 25px;
+}
+.user-profile-btn{
+    display: flex;
+    margin: 20px 25% 20px 35%;
+}
+.profile-recipe-word{
+    padding-right: 15px;
+    font-size: 17px;
+}
+.profile-recipe-cards{
+    align-items: center;
+    /* text-align: center; */
+
+}
+.profile-recipe-card{
+    display: flex;
+    margin:30px;
+
+}
+.profile-progress{
+    margin:30px 13% 5px 13%;
+}
+/* .email-modify{
+    display: flex;
+} */
+.profile-modify{
+    margin-left: 200px;
+}
+.user-follower-list{
+    margin: 40px 30%;
+}
+/* .unfollow-btn{
+    margin-left: 15%;
+} */
+.pagination{
+    align-items: center;
+    margin: 40px auto 40px auto;
+}
+.search-option{
+    margin-left: 250px;
+}
+.search-result-title{
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-bottom: 2%;
+}
+.no-result{
+    text-align: center;
+}

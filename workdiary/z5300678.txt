@@ -1,0 +1,32 @@
+Week 1: 
+Formed the team, topic chosed. Brief discussion on the functions and novel functions. Jira set up! Git not done yet.
+
+Week 2:
+We decided the user stories and allocated them to 3 sprints. We have also written some detailed infos of each story.
+Begin to work on proposal.
+
+Week 3:
+Not feeling veery well, mainly just followed some sprintboot tutorial coz I've never done this before and coding will start soon.
+
+Week 4:
+Made upload/edit/delete recipe function. Later we worked out the recipe detail page. Created SwaggerUI for front-end.
+
+Week 5:
+Made more tables in database for future functions, created a branch for myself on github. Fixed cross-origin problem. Fixed some bugs.
+
+Week 6:
+Added more attributes to recipe table. 
+
+Week 7:
+Set git.ignore file to avoid too many changes due to front-end running. Finished searching functions, allow users to search by method/ingrient/all etc. 
+
+Week 8:
+Created subscribe table in database and finish subscribe/unscribe function.
+
+Week 9:
+Worked on the newsfeed and whatshot functions. Thinking about how to organize final demo.
+Group practiced for final demo.
+
+Week 10:
+Working on final report!
+
